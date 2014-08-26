@@ -1,4 +1,6 @@
 [mlp] /mlp/
+	[gilda] Gilda Thread
+		[talon-job.green:comp] Talon Job
 	[whorse] Homeless Whore Thread
 		[an-eccentric-host.green:comp] An Eccentric Host
 		[field-report.green:wip] Field Report
